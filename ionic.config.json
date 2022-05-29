@@ -1,0 +1,7 @@
+{
+  "name": "HomeInventory",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
